@@ -1,5 +1,6 @@
 package org.launchcode.techjobs.oo;
 
+import  java.lang.Object;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
